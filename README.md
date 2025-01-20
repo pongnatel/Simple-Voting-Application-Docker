@@ -1,4 +1,4 @@
-# Simple Voting Application 🗳️
+# Simple Application 🗳️
 <p align="center">
     <img src="https://i.imgur.com/gHy6lFw.png" width=900>
 <p>
